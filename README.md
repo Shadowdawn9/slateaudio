@@ -1,4 +1,5 @@
-slateaudio
+Slate Audio
 ==========
 
-A 3D positional audio synthesiser for binaural sound using head-related transfer functions
+Slate audio is a 3D positional audio synthesiser for binaural sound using head-related transfer functions designed for
+Neothyne.
